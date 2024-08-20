@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # provider_state_management
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# provider-state-management
+>>>>>>> cbd3f633fc513ef4baae62d47640e8262d4f3d50
